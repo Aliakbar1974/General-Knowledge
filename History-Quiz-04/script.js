@@ -2,7 +2,7 @@
 // 🌍 WORLD GENERAL KNOWLEDGE
 // MCQ BANK — PART 04
 // World History
-// 20 Questions + Learning Mode + Exam Mode
+// 17 Questions + Learning Mode + Exam Mode
 // 15 Seconds per Question
 // Sound Engine + Facebook Return + Result Screen
 // ============================================================
@@ -43,8 +43,8 @@ function playSound(soundName) {
 
 // ============================================================
 // 🌍 WORLD GENERAL KNOWLEDGE
-// MCQ BANK — PART 01
-// Questions 1–20
+// MCQ BANK — PART 04
+// Questions 1–17
 // World History
 // ============================================================
 
