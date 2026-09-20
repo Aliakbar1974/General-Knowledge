@@ -218,33 +218,7 @@ const quizData = [
         example: "Constantinople is known today as Istanbul."
     },
 
-    {
-        id: "WH313",
-        question: "ইসলামের প্রথম খলিফা হিসেবে কে পরিচিত?",
-        options: [
-            "হযরত উমর (রা.)",
-            "হযরত আলী (রা.)",
-            "হযরত উসমান (রা.)",
-            "হযরত আবু বকর (রা.)"
-        ],
-        answer: 3,
-        explanation: "মুসলিম ঐতিহ্য অনুযায়ী, মহানবী হযরত মুহাম্মদ (সা.)-এর ইন্তেকালের পর হযরত আবু বকর (রা.) প্রথম খলিফা হিসেবে দায়িত্ব গ্রহণ করেন।",
-        example: "Abu Bakr is traditionally regarded as the first caliph of Islam."
-    },
-
-    {
-        id: "WH314",
-        question: "হিজরি সন গণনা শুরু হয় কোন ঘটনা থেকে?",
-        options: [
-            "মক্কা বিজয়",
-            "হিজরত",
-            "বদরের যুদ্ধ",
-            "বিদায় হজ"
-        ],
-        answer: 1,
-        explanation: "হিজরি সন গণনার সূচনা করা হয় মহানবী হযরত মুহাম্মদ (সা.)-এর মক্কা থেকে মদিনায় হিজরতকে ভিত্তি করে।",
-        example: "The Hijri calendar is based on the Hijra from Mecca to Medina."
-    },
+   
 
     {
         id: "WH315",
@@ -260,19 +234,7 @@ const quizData = [
         example: "The Hijra from Mecca to Medina took place in 622 CE."
     },
 
-    {
-        id: "WH316",
-        question: "ক্রুসেড মূলত কোন দুটি ধর্মীয়-রাজনৈতিক শক্তির সংঘাতের সঙ্গে সম্পর্কিত?",
-        options: [
-            "খ্রিস্টান ও মুসলিম",
-            "হিন্দু ও বৌদ্ধ",
-            "ইহুদি ও বৌদ্ধ",
-            "মুসলিম ও ইহুদি"
-        ],
-        answer: 0,
-        explanation: "ক্রুসেড ছিল মধ্যযুগে সংঘটিত একাধিক ধর্মীয় ও সামরিক অভিযান, যার প্রধান সংঘাতগুলোর মধ্যে পশ্চিম ইউরোপীয় খ্রিস্টান শক্তি ও মুসলিম শক্তির সংঘর্ষ উল্লেখযোগ্য।",
-        example: "The Crusades involved major conflicts between Christian and Muslim powers."
-    },
+    
 
     {
         id: "WH317",
