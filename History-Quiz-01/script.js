@@ -53,13 +53,8 @@ const quizData = [
     {
         id: "WH001",
         question: "প্রাচীন মিশরীয় সভ্যতা কোন নদীকে কেন্দ্র করে গড়ে উঠেছিল?",
-        options: [
-            "নীল নদ",
-            "টাইগ্রিস",
-            "ইউফ্রেটিস",
-            "সিন্ধু"
-        ],
-        answer: 0,
+        options: ["সিন্ধু", "ইউফ্রেটিস", "নীল নদ", "টাইগ্রিস"],
+        answer: 2,
         explanation: "প্রাচীন মিশরীয় সভ্যতা নীল নদকে কেন্দ্র করে গড়ে উঠেছিল।",
         example: "The ancient Egyptian civilization developed along the Nile River."
     },
@@ -67,13 +62,8 @@ const quizData = [
     {
         id: "WH002",
         question: "মেসোপটেমীয় সভ্যতা প্রধানত কোন দুটি নদীর মধ্যবর্তী অঞ্চলে গড়ে উঠেছিল?",
-        options: [
-            "নীল ও সিন্ধু",
-            "টাইগ্রিস ও ইউফ্রেটিস",
-            "গঙ্গা ও যমুনা",
-            "দানিয়ুব ও রাইন"
-        ],
-        answer: 1,
+        options: ["টাইগ্রিস ও ইউফ্রেটিস", "নীল ও সিন্ধু", "গঙ্গা ও যমুনা", "দানিয়ুব ও রাইন"],
+        answer: 0,
         explanation: "মেসোপটেমিয়া শব্দের অর্থ মূলত ‘দুই নদীর মধ্যবর্তী ভূমি’; টাইগ্রিস ও ইউফ্রেটিস নদীর মধ্যবর্তী অঞ্চলে এ সভ্যতা বিকশিত হয়।",
         example: "Mesopotamia developed between the Tigris and Euphrates rivers."
     },
@@ -81,13 +71,8 @@ const quizData = [
     {
         id: "WH003",
         question: "হাম্মুরাবির আইনসংহিতা কোন সভ্যতার সঙ্গে সম্পর্কিত?",
-        options: [
-            "মিশরীয়",
-            "গ্রিক",
-            "ব্যাবিলনীয়",
-            "রোমান"
-        ],
-        answer: 2,
+        options: ["মিশরীয়", "রোমান", "গ্রিক", "ব্যাবিলনীয়"],
+        answer: 3,
         explanation: "হাম্মুরাবির আইনসংহিতা প্রাচীন ব্যাবিলনীয় সভ্যতার সঙ্গে সম্পর্কিত।",
         example: "The Code of Hammurabi is associated with ancient Babylonian civilization."
     },
@@ -95,13 +80,8 @@ const quizData = [
     {
         id: "WH004",
         question: "গণতন্ত্রের প্রাচীনতম বিকাশের জন্য কোন নগররাষ্ট্র বিখ্যাত?",
-        options: [
-            "স্পার্টা",
-            "রোম",
-            "করিন্থ",
-            "এথেন্স"
-        ],
-        answer: 3,
+        options: ["রোম", "এথেন্স", "করিন্থ", "স্পার্টা"],
+        answer: 1,
         explanation: "প্রাচীন এথেন্সকে গণতন্ত্রের প্রাথমিক ও গুরুত্বপূর্ণ বিকাশের জন্য বিখ্যাত নগররাষ্ট্র হিসেবে ধরা হয়।",
         example: "Ancient Athens is famous for the early development of democracy."
     },
@@ -109,13 +89,8 @@ const quizData = [
     {
         id: "WH005",
         question: "প্রাচীন রোমান রাষ্ট্র ও সাম্রাজ্যের ঐতিহাসিক প্রাথমিক রাজধানী কোন নগর ছিল?",
-        options: [
-            "রোম",
-            "এথেন্স",
-            "আলেকজান্দ্রিয়া",
-            "জেরুজালেম"
-        ],
-        answer: 0,
+        options: ["আলেকজান্দ্রিয়া", "এথেন্স", "জেরুজালেম", "রোম"],
+        answer: 3,
         explanation: "রোম ছিল প্রাচীন রোমান রাষ্ট্র ও সাম্রাজ্যের ঐতিহাসিক কেন্দ্র। পরবর্তী সময়ে সাম্রাজ্যের প্রশাসনিক কেন্দ্র একাধিক স্থানে বিকশিত হয়, তাই প্রশ্নে প্রাথমিক ঐতিহাসিক রাজধানী বলা হয়েছে।",
         example: "Rome was the historic centre of the early Roman state and empire."
     },
@@ -123,12 +98,7 @@ const quizData = [
     {
         id: "WH006",
         question: "কনস্টান্টাইন দ্য গ্রেট কোন নগরকে রোমান সাম্রাজ্যের নতুন রাজধানী হিসেবে গড়ে তোলেন?",
-        options: [
-            "রোম",
-            "কনস্টান্টিনোপল (প্রাচীন বাইজেন্টিয়াম)",
-            "এথেন্স",
-            "আলেকজান্দ্রিয়া"
-        ],
+        options: ["আলেকজান্দ্রিয়া", "কনস্টান্টিনোপল (প্রাচীন বাইজেন্টিয়াম)", "রোম", "এথেন্স"],
         answer: 1,
         explanation: "কনস্টান্টাইন দ্য গ্রেট প্রাচীন বাইজেন্টিয়াম নগরকে সম্প্রসারণ ও পুনর্গঠন করে কনস্টান্টিনোপল নামে নতুন সাম্রাজ্যিক রাজধানী হিসেবে প্রতিষ্ঠা করেন।",
         example: "Constantine enlarged Byzantium and established Constantinople as a new imperial capital."
@@ -137,13 +107,8 @@ const quizData = [
     {
         id: "WH007",
         question: "ইসলামের প্রথম খলিফা কে ছিলেন?",
-        options: [
-            "হযরত উমর (রা.)",
-            "হযরত আলী (রা.)",
-            "হযরত আবু বকর (রা.)",
-            "হযরত উসমান (রা.)"
-        ],
-        answer: 2,
+        options: ["হযরত আবু বকর (রা.)", "হযরত উসমান (রা.)", "হযরত আলী (রা.)", "হযরত উমর (রা.)"],
+        answer: 0,
         explanation: "হযরত আবু বকর (রা.) ছিলেন ইসলামের প্রথম খলিফা।",
         example: "Abu Bakr was the first caliph of Islam."
     },
@@ -151,13 +116,8 @@ const quizData = [
     {
         id: "WH008",
         question: "হিজরি সন গণনা শুরু হয় কোন ঘটনা থেকে?",
-        options: [
-            "বদরের যুদ্ধ",
-            "মক্কা বিজয়",
-            "বিদায় হজ",
-            "হিজরত"
-        ],
-        answer: 3,
+        options: ["বদরের যুদ্ধ", "মক্কা বিজয়", "হিজরত", "বিদায় হজ"],
+        answer: 2,
         explanation: "হিজরি বর্ষপঞ্জির সূচনা নির্ধারণ করা হয় মহানবী হযরত মুহাম্মদ (সা.)-এর মক্কা থেকে মদিনায় হিজরতকে ভিত্তি করে।",
         example: "The Hijri calendar begins from the migration, or Hijra, to Medina."
     },
@@ -165,13 +125,8 @@ const quizData = [
     {
         id: "WH009",
         question: "১২১৫ সালে ম্যাগনা কার্টা কোন ইংরেজ রাজার শাসনামলে স্বীকৃত হয়?",
-        options: [
-            "রাজা জন",
-            "রাজা হেনরি অষ্টম",
-            "রাজা রিচার্ড প্রথম",
-            "রাজা এডওয়ার্ড প্রথম"
-        ],
-        answer: 0,
+        options: ["রাজা হেনরি অষ্টম", "রাজা জন", "রাজা এডওয়ার্ড প্রথম", "রাজা রিচার্ড প্রথম"],
+        answer: 1,
         explanation: "ম্যাগনা কার্টা ১২১৫ সালে ইংল্যান্ডের রাজা জনের শাসনামলে সিলমোহরযুক্ত হয়। এটি রাজক্ষমতার ওপর কিছু সীমা আরোপের ইতিহাসে গুরুত্বপূর্ণ দলিল।",
         example: "King John sealed Magna Carta in 1215."
     },
@@ -179,13 +134,8 @@ const quizData = [
     {
         id: "WH010",
         question: "কনস্টান্টিনোপল অটোমানদের দখলে যায় কোন সালে?",
-        options: [
-            "১২০৪",
-            "১৪৫৩",
-            "১৪৯২",
-            "১৫২৬"
-        ],
-        answer: 1,
+        options: ["১৪৯২", "১৫২৬", "১২০৪", "১৪৫৩"],
+        answer: 3,
         explanation: "অটোমান সুলতান দ্বিতীয় মেহমেদের বাহিনী ১৪৫৩ সালের ২৯ মে কনস্টান্টিনোপল দখল করে। এই ঘটনার মধ্য দিয়ে বাইজেন্টাইন সাম্রাজ্যের অবসান ঘটে।",
         example: "Constantinople fell to the Ottoman forces in 1453."
     },
@@ -193,12 +143,7 @@ const quizData = [
     {
         id: "WH011",
         question: "ইউরোপে রেনেসাঁর সূচনা প্রধানত কোন দেশে হয়েছিল?",
-        options: [
-            "ইংল্যান্ড",
-            "ফ্রান্স",
-            "ইতালি",
-            "স্পেন"
-        ],
+        options: ["ফ্রান্স", "ইংল্যান্ড", "ইতালি", "স্পেন"],
         answer: 2,
         explanation: "ইউরোপীয় রেনেসাঁর সূচনা প্রধানত ইতালিতে হয়েছিল।",
         example: "The Renaissance began primarily in Italy."
@@ -207,13 +152,8 @@ const quizData = [
     {
         id: "WH012",
         question: "মুদ্রণযন্ত্রের উন্নয়নের সঙ্গে কার নাম বিশেষভাবে জড়িত?",
-        options: [
-            "গ্যালিলিও",
-            "নিউটন",
-            "কোপার্নিকাস",
-            "জোহানেস গুটেনবার্গ"
-        ],
-        answer: 3,
+        options: ["জোহানেস গুটেনবার্গ", "কোপার্নিকাস", "গ্যালিলিও", "নিউটন"],
+        answer: 0,
         explanation: "জোহানেস গুটেনবার্গ ইউরোপে মুদ্রণ প্রযুক্তির উন্নয়নের সঙ্গে বিশেষভাবে যুক্ত।",
         example: "Johannes Gutenberg is closely associated with the development of the printing press."
     },
@@ -221,13 +161,8 @@ const quizData = [
     {
         id: "WH013",
         question: "আমেরিকার স্বাধীনতার ঘোষণা কোন সালে গৃহীত হয়?",
-        options: [
-            "১৭৭৬",
-            "১৭৮৯",
-            "১৭৯৯",
-            "১৮১২"
-        ],
-        answer: 0,
+        options: ["১৮১২", "১৭৯৯", "১৭৮৯", "১৭৭৬"],
+        answer: 3,
         explanation: "যুক্তরাষ্ট্রের স্বাধীনতার ঘোষণা ৪ জুলাই ১৭৭৬ সালে গৃহীত হয়।",
         example: "The United States Declaration of Independence was adopted in 1776."
     },
@@ -235,13 +170,8 @@ const quizData = [
     {
         id: "WH014",
         question: "ফরাসি বিপ্লব শুরু হয় কোন সালে?",
-        options: [
-            "১৭৭৬",
-            "১৭৮৯",
-            "১৮১৫",
-            "১৮৪৮"
-        ],
-        answer: 1,
+        options: ["১৭৭৬", "১৮১৫", "১৭৮৯", "১৮৪৮"],
+        answer: 2,
         explanation: "ফরাসি বিপ্লব ১৭৮৯ সালে শুরু হয়।",
         example: "The French Revolution began in 1789."
     },
@@ -249,13 +179,8 @@ const quizData = [
     {
         id: "WH015",
         question: "ফরাসি বিপ্লবের বিখ্যাত স্লোগান ছিল—",
-        options: [
-            "Peace, Land and Bread",
-            "Liberty or Death",
-            "Liberty, Equality, Fraternity",
-            "Workers of the World Unite"
-        ],
-        answer: 2,
+        options: ["Peace, Land and Bread", "Liberty, Equality, Fraternity", "Workers of the World Unite", "Liberty or Death"],
+        answer: 1,
         explanation: "ফরাসি বিপ্লবের বিখ্যাত মূলমন্ত্র ছিল ‘Liberty, Equality, Fraternity’।",
         example: "Liberty, Equality, Fraternity became the famous slogan of the French Revolution."
     },
@@ -263,13 +188,8 @@ const quizData = [
     {
         id: "WH016",
         question: "নেপোলিয়ন বোনাপার্ট কোন যুদ্ধে চূড়ান্তভাবে পরাজিত হন?",
-        options: [
-            "ট্রাফালগার",
-            "লাইপজিগ",
-            "মস্কো",
-            "ওয়াটারলু"
-        ],
-        answer: 3,
+        options: ["ওয়াটারলু", "লাইপজিগ", "মস্কো", "ট্রাফালগার"],
+        answer: 0,
         explanation: "১৮১৫ সালের ওয়াটারলুর যুদ্ধে নেপোলিয়ন বোনাপার্ট চূড়ান্তভাবে পরাজিত হন।",
         example: "Napoleon Bonaparte was finally defeated at the Battle of Waterloo."
     },
@@ -277,12 +197,7 @@ const quizData = [
     {
         id: "WH017",
         question: "শিল্পবিপ্লব প্রথম কোন দেশে শুরু হয়?",
-        options: [
-            "ব্রিটেন",
-            "ফ্রান্স",
-            "জার্মানি",
-            "যুক্তরাষ্ট্র"
-        ],
+        options: ["ব্রিটেন", "জার্মানি", "ফ্রান্স", "যুক্তরাষ্ট্র"],
         answer: 0,
         explanation: "শিল্পবিপ্লব প্রথমে ব্রিটেনে শুরু হয় এবং পরে ইউরোপ ও বিশ্বের অন্যান্য অঞ্চলে ছড়িয়ে পড়ে।",
         example: "The Industrial Revolution began in Britain."
@@ -291,13 +206,8 @@ const quizData = [
     {
         id: "WH018",
         question: "রাশিয়ার বিখ্যাত ফেব্রুয়ারি ও অক্টোবর বিপ্লব সংঘটিত হয় কোন সালে?",
-        options: [
-            "১৯০৫",
-            "১৯১৭",
-            "১৯২১",
-            "১৯২৯"
-        ],
-        answer: 1,
+        options: ["১৯২৯", "১৯০৫", "১৯২১", "১৯১৭"],
+        answer: 3,
         explanation: "রুশ বিপ্লবের প্রধান বিপ্লবী ঘটনাগুলো ১৯১৭ সালে সংঘটিত হয়।",
         example: "The Russian Revolution took place in 1917."
     },
@@ -305,12 +215,7 @@ const quizData = [
     {
         id: "WH019",
         question: "রুশ বিপ্লবের বলশেভিক দলের নেতা কে ছিলেন?",
-        options: [
-            "স্ট্যালিন",
-            "ট্রটস্কি",
-            "ভ্লাদিমির লেনিন",
-            "কেরেনস্কি"
-        ],
+        options: ["কেরেনস্কি", "ট্রটস্কি", "ভ্লাদিমির লেনিন", "স্ট্যালিন"],
         answer: 2,
         explanation: "ভ্লাদিমির লেনিন বলশেভিক দলের প্রধান নেতা ছিলেন এবং ১৯১৭ সালের অক্টোবর বিপ্লবে গুরুত্বপূর্ণ নেতৃত্ব দেন।",
         example: "Vladimir Lenin was the leader of the Bolsheviks."
@@ -319,13 +224,8 @@ const quizData = [
     {
         id: "WH020",
         question: "প্রথম বিশ্বযুদ্ধ শুরু হয় কোন সালে?",
-        options: [
-            "১৯১২",
-            "১৯১৩",
-            "১৯১৫",
-            "১৯১৪"
-        ],
-        answer: 3,
+        options: ["১৯১২", "১৯১৪", "১৯১৩", "১৯১৫"],
+        answer: 1,
         explanation: "প্রথম বিশ্বযুদ্ধ ১৯১৪ সালে শুরু হয়।",
         example: "World War I began in 1914."
     }
