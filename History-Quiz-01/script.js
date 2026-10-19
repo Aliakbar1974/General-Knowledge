@@ -108,7 +108,7 @@ const quizData = [
 
     {
         id: "WH005",
-        question: "রোমান সাম্রাজ্যের রাজধানী ছিল—",
+        question: "প্রাচীন রোমান রাষ্ট্র ও সাম্রাজ্যের ঐতিহাসিক প্রাথমিক রাজধানী কোন নগর ছিল?",
         options: [
             "রোম",
             "এথেন্স",
@@ -116,8 +116,8 @@ const quizData = [
             "জেরুজালেম"
         ],
         answer: 0,
-        explanation: "রোম ছিল রোমান সাম্রাজ্যের ঐতিহাসিক রাজধানী।",
-        example: "Rome was the historic capital of the Roman Empire."
+        explanation: "রোম ছিল প্রাচীন রোমান রাষ্ট্র ও সাম্রাজ্যের ঐতিহাসিক কেন্দ্র। পরবর্তী সময়ে সাম্রাজ্যের প্রশাসনিক কেন্দ্র একাধিক স্থানে বিকশিত হয়, তাই প্রশ্নে প্রাথমিক ঐতিহাসিক রাজধানী বলা হয়েছে।",
+        example: "Rome was the historic centre of the early Roman state and empire."
     },
 
     {
