@@ -1,6 +1,6 @@
 // ============================================================
 // 🌍 WORLD GENERAL KNOWLEDGE
-// MCQ BANK — PART 01
+// MCQ BANK — PART 03
 // World History
 // 20 Questions + Learning Mode + Exam Mode
 // 15 Seconds per Question
