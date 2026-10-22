@@ -50,18 +50,13 @@ function playSound(soundName) {
 
 const quizData = [
 
-    {
+        {
         id: "WH301",
-        question: "প্রাচীন মিশরীয় সভ্যতা প্রধানত কোন নদীকে কেন্দ্র করে গড়ে উঠেছিল?",
-        options: [
-            "টাইগ্রিস",
-            "ইউফ্রেটিস",
-            "সিন্ধু",
-            "নীল"
-        ],
+        question: "প্রাচীন মিশরে পিরামিডগুলো প্রধানত কী উদ্দেশ্যে নির্মিত হয়েছিল?",
+        options: ["রাজপ্রাসাদ হিসেবে", "বাণিজ্যকেন্দ্র হিসেবে", "সামরিক দুর্গ হিসেবে", "ফারাওদের সমাধি হিসেবে"],
         answer: 3,
-        explanation: "প্রাচীন মিশরীয় সভ্যতা নীল নদের তীরবর্তী অঞ্চলে গড়ে উঠেছিল। নীল নদ কৃষি, যোগাযোগ ও জনজীবনে গুরুত্বপূর্ণ ভূমিকা পালন করেছিল।",
-        example: "Ancient Egyptian civilization flourished along the Nile River."
+        explanation: "মিশরের বহু বিখ্যাত পিরামিড ফারাওদের সমাধি হিসেবে নির্মিত হয়েছিল এবং তাদের পরকাল-সংক্রান্ত বিশ্বাসের সঙ্গে যুক্ত ছিল।",
+        example: "Many ancient Egyptian pyramids were built as tombs for pharaohs."
     },
 
     {
@@ -78,18 +73,13 @@ const quizData = [
         example: "Mesopotamia means the land between two rivers."
     },
 
-    {
+        {
         id: "WH303",
-        question: "মেসোপটেমিয়ার প্রধান দুটি নদী কোনগুলো?",
-        options: [
-            "নীল ও সিন্ধু",
-            "গঙ্গা ও যমুনা",
-            "টাইগ্রিস ও ইউফ্রেটিস",
-            "দানিয়ুব ও রাইন"
-        ],
+        question: "প্রাচীন মেসোপটেমিয়ায় কিউনিফর্ম বলতে কী বোঝায়?",
+        options: ["এক ধরনের মুদ্রা", "একটি সামরিক অস্ত্র", "কীলকাকার লিপি", "একটি স্থাপত্যশৈলী"],
         answer: 2,
-        explanation: "মেসোপটেমিয়ার প্রধান দুটি নদী হলো টাইগ্রিস ও ইউফ্রেটিস। এই দুই নদীর মধ্যবর্তী অঞ্চলেই প্রাচীন মেসোপটেমীয় সভ্যতার বিকাশ ঘটে।",
-        example: "The Tigris and Euphrates were the major rivers of Mesopotamia."
+        explanation: "কিউনিফর্ম ছিল প্রাচীন মেসোপটেমিয়ায় ব্যবহৃত কীলকাকার লেখনপদ্ধতি, যা নরম মাটির ফলকে লেখা হতো।",
+        example: "Cuneiform was a wedge-shaped writing system used in ancient Mesopotamia."
     },
 
         {
@@ -101,18 +91,13 @@ const quizData = [
         example: "The Phoenicians were known for maritime trade and their influential alphabet."
     },
 
-    {
+        {
         id: "WH305",
-        question: "প্রাচীন গ্রিসে গণতন্ত্রের বিকাশের জন্য কোন নগররাষ্ট্র বিশেষভাবে পরিচিত?",
-        options: [
-            "এথেন্স",
-            "স্পার্টা",
-            "করিন্থ",
-            "থিবস"
-        ],
+        question: "প্রাচীন স্পার্টার সমাজ কোন বৈশিষ্ট্যের জন্য বিশেষভাবে পরিচিত ছিল?",
+        options: ["সামরিক প্রশিক্ষণ ও শৃঙ্খলা", "শুধু সমুদ্রবাণিজ্য", "বিশাল শিল্পকারখানা", "যাযাবর পশুপালন"],
         answer: 0,
-        explanation: "প্রাচীন গ্রিসের এথেন্স নগররাষ্ট্র গণতন্ত্রের বিকাশের জন্য বিশেষভাবে পরিচিত। এথেন্সে নাগরিকদের রাজনৈতিক অংশগ্রহণের একটি গুরুত্বপূর্ণ ব্যবস্থা গড়ে উঠেছিল।",
-        example: "Athens is famous for the development of democracy in ancient Greece."
+        explanation: "প্রাচীন স্পার্টা কঠোর সামরিক প্রশিক্ষণ, শৃঙ্খলা এবং সামরিক জীবনের ওপর জোর দেওয়ার জন্য পরিচিত ছিল।",
+        example: "Ancient Sparta was known for military discipline and training."
     },
 
     {
@@ -259,32 +244,22 @@ const quizData = [
         example: "Genghis Khan was born with the name Temujin."
     },
 
-    {
+        {
         id: "WH319",
-        question: "অটোমান সাম্রাজ্যের প্রতিষ্ঠাতা হিসেবে কাকে ধরা হয়?",
-        options: [
-            "সুলতান সুলেমান",
-            "দ্বিতীয় মেহমেদ",
-            "উসমান প্রথম",
-            "মুস্তাফা কামাল"
-        ],
+        question: "সুলতান সুলেমান প্রথম কোন শতকে অটোমান সাম্রাজ্য শাসন করেন?",
+        options: ["১৪শ শতকে", "১৫শ শতকে", "১৬শ শতকে", "১৭শ শতকে"],
         answer: 2,
-        explanation: "উসমান প্রথমকে অটোমান সাম্রাজ্যের প্রতিষ্ঠাতা হিসেবে ধরা হয়। তাঁর নাম থেকেই Ottoman নামটির উৎপত্তি।",
-        example: "Osman I is regarded as the founder of the Ottoman Empire."
+        explanation: "সুলতান সুলেমান প্রথম ১৫২০ থেকে ১৫৬৬ সাল পর্যন্ত শাসন করেন, যা ১৬শ শতকের অন্তর্ভুক্ত।",
+        example: "Suleiman the Magnificent ruled the Ottoman Empire during the 16th century."
     },
 
-    {
+        {
         id: "WH320",
-        question: "কনস্টান্টিনোপল অটোমানদের দখলে আসে কোন সালে?",
-        options: [
-            "১৪১৫",
-            "১৪৮৭",
-            "১৫০১",
-            "১৪৫৩"
-        ],
+        question: "ইউরোপে 'Black Death' নামে পরিচিত মহামারি প্রধানত কোন শতকে ছড়িয়ে পড়ে?",
+        options: ["১২শ শতকে", "১৩শ শতকে", "১৫শ শতকে", "১৪শ শতকে"],
         answer: 3,
-        explanation: "১৪৫৩ সালে অটোমান সুলতান দ্বিতীয় মেহমেদের নেতৃত্বে কনস্টান্টিনোপল বিজিত হয়। এই ঘটনা বাইজেন্টাইন সাম্রাজ্যের অবসানের সঙ্গে যুক্ত।",
-        example: "The Ottomans captured Constantinople in 1453."
+        explanation: "Black Death বা ব্ল্যাক ডেথ ১৪শ শতকের মাঝামাঝি সময়ে ইউরোপে ভয়াবহভাবে ছড়িয়ে পড়ে।",
+        example: "The Black Death spread widely through Europe in the mid-14th century."
     }
 
 ];
