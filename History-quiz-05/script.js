@@ -120,18 +120,13 @@ const quizData = [
     example: "Martin Luther's 95 Theses were associated with Wittenberg."
   },
 
-  {
+    {
     id: "WH326",
-    question: "ফরাসি বিপ্লব শুরু হয় কোন সালে?",
-    options: [
-      "১৭৭৬",
-      "১৭৮৯",
-      "১৭৯৯",
-      "১৮০৪"
-    ],
+    question: "ফরাসি বিপ্লবের সময় ফ্রান্সের রাজা কে ছিলেন?",
+    options: ["নেপোলিয়ন বোনাপার্ট", "ষোড়শ লুই", "চতুর্দশ লুই", "অষ্টাদশ লুই"],
     answer: 1,
-    explanation: "ফরাসি বিপ্লব ১৭৮৯ সালে শুরু হয়।",
-    example: "The French Revolution began in 1789."
+    explanation: "ফরাসি বিপ্লব শুরু হওয়ার সময় ফ্রান্সের রাজা ছিলেন ষোড়শ লুই (Louis XVI)।",
+    example: "Louis XVI was the king of France when the French Revolution began."
   },
 
   {
