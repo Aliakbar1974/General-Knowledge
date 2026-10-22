@@ -162,18 +162,13 @@ const quizData = [
         example: "Osman I founded the Ottoman dynasty."
     },
 
-    {
+        {
         id: "WH109",
-        question: "কনস্টান্টিনোপল অটোমানরা দখল করে কোন সালে?",
-        options: [
-            "১৪১৫",
-            "১৪৫৩",
-            "১৪৯২",
-            "১৫১৭"
-        ],
+        question: "মার্টিন লুথার তাঁর 95 Theses প্রকাশ করেন কোন সালে?",
+        options: ["১৫২১", "১৫১৭", "১৬৪৮", "১৭৮৯"],
         answer: 1,
-        explanation: "অটোমান সুলতান দ্বিতীয় মেহমেদ ১৪৫৩ সালে কনস্টান্টিনোপল দখল করেন।",
-        example: "Constantinople was conquered by the Ottomans in 1453."
+        explanation: "মার্টিন লুথার ১৫১৭ সালে তাঁর 95 Theses প্রকাশ করেন। এই ঘটনা প্রোটেস্ট্যান্ট সংস্কার আন্দোলনের সূচনার সঙ্গে বিশেষভাবে যুক্ত।",
+        example: "Martin Luther published his 95 Theses in 1517."
     },
 
     {
