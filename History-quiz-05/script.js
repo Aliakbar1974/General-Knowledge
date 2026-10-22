@@ -190,18 +190,13 @@ const quizData = [
     example: "Napoleon suffered his final defeat at the Battle of Waterloo."
   },
 
-  {
+    {
     id: "WH331",
-    question: "আমেরিকার স্বাধীনতার ঘোষণা কোন সালে গৃহীত হয়?",
-    options: [
-      "১৭৭০",
-      "১৭৮১",
-      "১৭৭৬",
-      "১৭৮৭"
-    ],
+    question: "যুক্তরাষ্ট্রের প্রথম প্রেসিডেন্ট কে ছিলেন?",
+    options: ["জন অ্যাডামস", "থমাস জেফারসন", "জর্জ ওয়াশিংটন", "জেমস ম্যাডিসন"],
     answer: 2,
-    explanation: "আমেরিকার Declaration of Independence ১৭৭৬ সালের ৪ জুলাই গৃহীত হয়।",
-    example: "The Declaration of Independence was adopted in 1776."
+    explanation: "জর্জ ওয়াশিংটন ১৭৮৯ সালে যুক্তরাষ্ট্রের প্রথম প্রেসিডেন্ট হিসেবে দায়িত্ব গ্রহণ করেন।",
+    example: "George Washington was the first President of the United States."
   },
 
   {
