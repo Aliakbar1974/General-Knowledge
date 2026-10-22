@@ -92,18 +92,18 @@ const quizData = [
     example: "Leonardo da Vinci painted the Mona Lisa."
   },
 
-  {
+    {
     id: "WH324",
-    question: "Protestant Reformation-এর সূচনার সঙ্গে কার নাম বিশেষভাবে যুক্ত?",
+    question: "ইংল্যান্ডের রাজা অষ্টম হেনরি কোন গির্জার প্রতিষ্ঠার সঙ্গে যুক্ত?",
     options: [
-      "জন ক্যালভিন",
-      "ইরাসমাস",
-      "টমাস মোর",
-      "মার্টিন লুথার"
+      "রোমান ক্যাথলিক চার্চ",
+      "লুথেরান চার্চ",
+      "ইস্টার্ন অর্থোডক্স চার্চ",
+      "চার্চ অব ইংল্যান্ড"
     ],
     answer: 3,
-    explanation: "১৫১৭ সালে মার্টিন লুথারের 95 Theses প্রকাশ Protestant Reformation-এর সূচনার সঙ্গে বিশেষভাবে যুক্ত।",
-    example: "Martin Luther is closely associated with the Protestant Reformation."
+    explanation: "অষ্টম হেনরির শাসনামলে রোমের পোপের কর্তৃত্ব থেকে বিচ্ছিন্ন হয়ে চার্চ অব ইংল্যান্ড গড়ে ওঠে।",
+    example: "Henry VIII was central to the establishment of the Church of England."
   },
 
   {
