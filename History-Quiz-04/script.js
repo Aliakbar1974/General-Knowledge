@@ -92,18 +92,13 @@ const quizData = [
         example: "The Tigris and Euphrates were the major rivers of Mesopotamia."
     },
 
-    {
+        {
         id: "WH304",
-        question: "হাম্মুরাবির আইনসংহিতা কোন সভ্যতার সঙ্গে সম্পর্কিত?",
-        options: [
-            "রোমান",
-            "গ্রিক",
-            "মিশরীয়",
-            "ব্যাবিলনীয়"
-        ],
+        question: "প্রাচীন ফিনিশীয় সভ্যতার কোন অবদান বিশেষভাবে পরিচিত?",
+        options: ["গণতন্ত্রের বিকাশ", "কাগজ আবিষ্কার", "শূন্যের ধারণা", "বর্ণমালার বিকাশ ও সমুদ্রবাণিজ্য"],
         answer: 3,
-        explanation: "হাম্মুরাবির আইনসংহিতা প্রাচীন ব্যাবিলনীয় সভ্যতার সঙ্গে সম্পর্কিত। এটি রাজা হাম্মুরাবির শাসনামলে প্রণীত একটি বিখ্যাত প্রাচীন আইনসংহিতা।",
-        example: "The Code of Hammurabi is associated with ancient Babylon."
+        explanation: "ফিনিশীয়রা ভূমধ্যসাগরীয় অঞ্চলে সমুদ্রবাণিজ্যে দক্ষ ছিল এবং তাদের বর্ণমালা পরবর্তী গ্রিক বর্ণমালার বিকাশে গুরুত্বপূর্ণ প্রভাব ফেলে।",
+        example: "The Phoenicians were known for maritime trade and their influential alphabet."
     },
 
     {
