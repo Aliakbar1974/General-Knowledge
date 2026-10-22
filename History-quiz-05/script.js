@@ -221,13 +221,8 @@ const quizData = [
   {
     id: "WH333",
     question: "আমেরিকার গৃহযুদ্ধের সময় প্রেসিডেন্ট কে ছিলেন?",
-    options: [
-      "জর্জ ওয়াশিংটন",
-      "থমাস জেফারসন",
-      "আব্রাহাম লিংকন",
-      "উড্রো উইলসন"
-    ],
-    answer: 2,
+    options: ["জর্জ ওয়াশিংটন","থমাস জেফারসন","উড্রো উইলসন","আব্রাহাম লিংকন"],
+    answer: 3,
     explanation: "১৮৬১–১৮৬৫ সালের আমেরিকার গৃহযুদ্ধের সময় যুক্তরাষ্ট্রের প্রেসিডেন্ট ছিলেন আব্রাহাম লিংকন।",
     example: "Abraham Lincoln was President of the United States during the American Civil War."
   },
@@ -235,13 +230,8 @@ const quizData = [
   {
     id: "WH334",
     question: "আমেরিকার গৃহযুদ্ধ প্রধানত কোন বিষয়কে কেন্দ্র করে সংঘটিত হয়েছিল?",
-    options: [
-      "ধর্ম",
-      "দাসপ্রথা ও অঙ্গরাজ্যগুলোর বিরোধ",
-      "অভিবাসন",
-      "ভাষা"
-    ],
-    answer: 1,
+    options: ["দাসপ্রথা ও অঙ্গরাজ্যগুলোর বিরোধ","ধর্ম","অভিবাসন","ভাষা"],
+    answer: 0,
     explanation: "দাসপ্রথা, এর বিস্তার এবং অঙ্গরাজ্যগুলোর অধিকার ও ফেডারেল কর্তৃত্বের বিরোধ আমেরিকার গৃহযুদ্ধের প্রধান কারণগুলোর মধ্যে ছিল।",
     example: "Slavery and disputes over state and federal authority were central issues in the American Civil War."
   },
@@ -249,13 +239,8 @@ const quizData = [
   {
     id: "WH335",
     question: "ইতালির একীকরণ আন্দোলনের সঙ্গে কোন নেতা বিশেষভাবে যুক্ত?",
-    options: [
-      "বিসমার্ক",
-      "মেটার্নিখ",
-      "গ্যারিবল্ডি",
-      "চার্লেমেন"
-    ],
-    answer: 2,
+    options: ["বিসমার্ক","মেটার্নিখ","চার্লেমেন","গ্যারিবল্ডি"],
+    answer: 3,
     explanation: "জিউসেপ্পে গ্যারিবল্ডি ইতালির একীকরণ আন্দোলনের অন্যতম প্রধান নেতা ছিলেন।",
     example: "Giuseppe Garibaldi was a major figure in the unification of Italy."
   },
