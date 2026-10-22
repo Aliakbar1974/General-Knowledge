@@ -217,13 +217,13 @@ const quizData = [
     example: "Abraham Lincoln was President of the United States during the American Civil War."
   },
 
-  {
+    {
     id: "WH334",
-    question: "আমেরিকার গৃহযুদ্ধ প্রধানত কোন বিষয়কে কেন্দ্র করে সংঘটিত হয়েছিল?",
-    options: ["দাসপ্রথা ও অঙ্গরাজ্যগুলোর বিরোধ","ধর্ম","অভিবাসন","ভাষা"],
+    question: "যুক্তরাষ্ট্রে দাসপ্রথা বিলোপের সঙ্গে কোন সাংবিধানিক সংশোধনী যুক্ত?",
+    options: ["যুক্তরাষ্ট্রের সংবিধানের ১৩তম সংশোধনী", "১০ম সংশোধনী", "১৫তম সংশোধনী", "১৯তম সংশোধনী"],
     answer: 0,
-    explanation: "দাসপ্রথা, এর বিস্তার এবং অঙ্গরাজ্যগুলোর অধিকার ও ফেডারেল কর্তৃত্বের বিরোধ আমেরিকার গৃহযুদ্ধের প্রধান কারণগুলোর মধ্যে ছিল।",
-    example: "Slavery and disputes over state and federal authority were central issues in the American Civil War."
+    explanation: "যুক্তরাষ্ট্রের সংবিধানের ১৩তম সংশোধনী ১৮৬৫ সালে দাসপ্রথা বিলোপ করে। ১৫তম সংশোধনী ভোটাধিকারের সঙ্গে এবং ১৯তম সংশোধনী নারীদের ভোটাধিকারের সঙ্গে সম্পর্কিত।",
+    example: "The Thirteenth Amendment abolished slavery in the United States."
   },
 
   {
