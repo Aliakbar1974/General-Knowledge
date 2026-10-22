@@ -1,7 +1,7 @@
 // ============================================================
 // 🌍 WORLD GENERAL KNOWLEDGE
 // MCQ BANK — PART 06
-// World History
+// Geography
 // 20 Questions + Learning Mode + Exam Mode
 // 15 Seconds per Question
 // Sound Engine + Facebook Return + Result Screen
