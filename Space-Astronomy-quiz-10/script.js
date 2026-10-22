@@ -1,7 +1,7 @@
 // ============================================================
 // 🌍 WORLD GENERAL KNOWLEDGE
 // MCQ BANK — PART 10
-// Geography
+// Space and Astronomy
 // 20 Questions + Learning Mode + Exam Mode
 // 15 Seconds per Question
 // Sound Engine + Facebook Return + Result Screen
