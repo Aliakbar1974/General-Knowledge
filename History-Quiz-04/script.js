@@ -114,18 +114,13 @@ const quizData = [
         example: "Sparta was known for its strong military culture."
     },
 
-    {
+        {
         id: "WH307",
-        question: "আলেকজান্ডার দ্য গ্রেট কোন রাজ্যের রাজা ছিলেন?",
-        options: [
-            "রোম",
-            "পারস্য",
-            "মেসিডোনিয়া",
-            "মিশর"
-        ],
+        question: "প্রাচীন গ্রিক দার্শনিক সক্রেটিসের বিখ্যাত শিষ্য কে ছিলেন?",
+        options: ["এরিস্টটল", "পিথাগোরাস", "প্লেটো", "হেরোডোটাস"],
         answer: 2,
-        explanation: "আলেকজান্ডার দ্য গ্রেট ছিলেন প্রাচীন মেসিডোনিয়ার রাজা। তিনি বিশাল সাম্রাজ্য গড়ে তুলেছিলেন এবং পারস্য সাম্রাজ্য জয় করেছিলেন।",
-        example: "Alexander the Great was the king of Macedon."
+        explanation: "প্লেটো ছিলেন সক্রেটিসের বিখ্যাত শিষ্য এবং পরবর্তীকালে নিজেও প্রভাবশালী দার্শনিক হয়ে ওঠেন।",
+        example: "Plato was a famous student of Socrates."
     },
 
     {
