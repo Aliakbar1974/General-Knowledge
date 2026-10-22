@@ -78,18 +78,18 @@ const quizData = [
     example: "The Renaissance means a rebirth of art, culture, and learning."
   },
 
-  {
+    {
     id: "WH323",
-    question: "ছাপাখানা বা Printing Press-এর উন্নয়নের সঙ্গে কার নাম সবচেয়ে বেশি যুক্ত?",
+    question: "মোনালিসা চিত্রকর্মটি কে এঁকেছিলেন?",
     options: [
-      "গ্যালিলিও",
-      "নিউটন",
-      "জোহানেস গুটেনবার্গ",
-      "কোপার্নিকাস"
+      "মাইকেলেঞ্জেলো",
+      "রাফায়েল",
+      "লিওনার্দো দা ভিঞ্চি",
+      "দোনাতেল্লো"
     ],
     answer: 2,
-    explanation: "ইউরোপে আধুনিক মুদ্রণযন্ত্রের বিকাশের সঙ্গে জোহানেস গুটেনবার্গের নাম বিশেষভাবে যুক্ত।",
-    example: "Johannes Gutenberg is closely associated with the development of the printing press in Europe."
+    explanation: "মোনালিসা লিওনার্দো দা ভিঞ্চির আঁকা বিখ্যাত প্রতিকৃতি, যা বর্তমানে প্যারিসের লুভর জাদুঘরে রয়েছে।",
+    example: "Leonardo da Vinci painted the Mona Lisa."
   },
 
   {
