@@ -50,18 +50,18 @@ function playSound(soundName) {
 
 const quizData = [
 
-  {
+    {
     id: "WH321",
-    question: "ইউরোপের Renaissance-এর সূচনা প্রধানত কোন দেশে হয়েছিল?",
+    question: "ইউরোপে মুদ্রণযন্ত্রের বিস্তার কোন পরিবর্তনকে বিশেষভাবে ত্বরান্বিত করেছিল?",
     options: [
-      "ইতালি",
-      "ইংল্যান্ড",
-      "জার্মানি",
-      "স্পেন"
+      "বই ও জ্ঞানের বিস্তার",
+      "সামন্ততন্ত্রের সূচনা",
+      "রোমান সাম্রাজ্যের প্রতিষ্ঠা",
+      "ক্রুসেডের অবসান"
     ],
     answer: 0,
-    explanation: "ইউরোপীয় Renaissance বা পুনর্জাগরণের সূচনা প্রধানত ইতালিতে হয়েছিল।",
-    example: "The Renaissance began primarily in Italy."
+    explanation: "মুদ্রণযন্ত্র বইয়ের অনুলিপি তুলনামূলক দ্রুত ও বেশি সংখ্যায় তৈরি করতে সাহায্য করে, ফলে ইউরোপে জ্ঞান ও ধারণার বিস্তার ত্বরান্বিত হয়।",
+    example: "The printing press helped accelerate the spread of books and knowledge in Europe."
   },
 
   {
@@ -171,18 +171,18 @@ const quizData = [
     example: "Napoleon Bonaparte was Emperor of France."
   },
 
-  {
+    {
     id: "WH330",
-    question: "নেপোলিয়নের চূড়ান্ত পরাজয় কোন যুদ্ধে ঘটে?",
+    question: "নেপোলিয়নের শাসনামলে প্রণীত বিখ্যাত দেওয়ানি আইন কোন নামে পরিচিত?",
     options: [
-      "ট্রাফালগার",
-      "ওয়াটারলু",
-      "লিপজিগ",
-      "অস্টারলিটজ"
+      "ম্যাগনা কার্টা",
+      "নেপোলিয়নিক কোড",
+      "হাম্মুরাবির আইনসংহিতা",
+      "বারো টেবিলের আইন"
     ],
     answer: 1,
-    explanation: "১৮১৫ সালের ওয়াটারলুর যুদ্ধে নেপোলিয়নের চূড়ান্ত পরাজয় ঘটে।",
-    example: "Napoleon suffered his final defeat at the Battle of Waterloo."
+    explanation: "নেপোলিয়নিক কোড ১৮০৪ সালে প্রণীত হয় এবং ফরাসি দেওয়ানি আইনের বিকাশে গুরুত্বপূর্ণ ভূমিকা রাখে।",
+    example: "The Napoleonic Code was enacted in 1804."
   },
 
     {
@@ -208,13 +208,13 @@ const quizData = [
     example: "Thomas Jefferson is widely known as the principal author of the Declaration of Independence."
   },
 
-  {
+    {
     id: "WH333",
-    question: "আমেরিকার গৃহযুদ্ধের সময় প্রেসিডেন্ট কে ছিলেন?",
-    options: ["জর্জ ওয়াশিংটন","থমাস জেফারসন","উড্রো উইলসন","আব্রাহাম লিংকন"],
+    question: "আব্রাহাম লিংকনের হত্যাকাণ্ডের পর যুক্তরাষ্ট্রের প্রেসিডেন্ট কে হন?",
+    options: ["ইউলিসিস এস. গ্রান্ট", "জেমস বুকানন", "জন অ্যাডামস", "অ্যান্ড্রু জনসন"],
     answer: 3,
-    explanation: "১৮৬১–১৮৬৫ সালের আমেরিকার গৃহযুদ্ধের সময় যুক্তরাষ্ট্রের প্রেসিডেন্ট ছিলেন আব্রাহাম লিংকন।",
-    example: "Abraham Lincoln was President of the United States during the American Civil War."
+    explanation: "১৮৬৫ সালের এপ্রিলে আব্রাহাম লিংকনের হত্যাকাণ্ডের পর ভাইস প্রেসিডেন্ট অ্যান্ড্রু জনসন যুক্তরাষ্ট্রের প্রেসিডেন্ট হন।",
+    example: "Andrew Johnson became U.S. president after Abraham Lincoln was assassinated."
   },
 
     {
