@@ -52,38 +52,38 @@ const quizData = [
 
     {
         id: "WH001",
-        question: "প্রাচীন মিশরীয় সভ্যতা কোন নদীকে কেন্দ্র করে গড়ে উঠেছিল?",
-        options: ["সিন্ধু", "ইউফ্রেটিস", "নীল নদ", "টাইগ্রিস"],
+        question: "সিন্ধু সভ্যতার অন্যতম প্রধান নগরকেন্দ্র কোনটি?",
+        options: ["মেমফিস", "থিবস", "মহেঞ্জোদারো", "উর"],
         answer: 2,
-        explanation: "প্রাচীন মিশরীয় সভ্যতা নীল নদকে কেন্দ্র করে গড়ে উঠেছিল।",
-        example: "The ancient Egyptian civilization developed along the Nile River."
+        explanation: "মহেঞ্জোদারো ছিল সিন্ধু বা হরপ্পা সভ্যতার অন্যতম প্রধান নগরকেন্দ্র। পরিকল্পিত নগরব্যবস্থা ও উন্নত নিষ্কাশনব্যবস্থার জন্য এটি পরিচিত।",
+        example: "Mohenjo-daro was a major city of the Indus Valley Civilization."
     },
 
     {
         id: "WH002",
-        question: "মেসোপটেমীয় সভ্যতা প্রধানত কোন দুটি নদীর মধ্যবর্তী অঞ্চলে গড়ে উঠেছিল?",
-        options: ["টাইগ্রিস ও ইউফ্রেটিস", "নীল ও সিন্ধু", "গঙ্গা ও যমুনা", "দানিয়ুব ও রাইন"],
+        question: "আকেমেনীয় পারস্য সাম্রাজ্যের প্রতিষ্ঠাতা হিসেবে কাকে সাধারণত গণ্য করা হয়?",
+        options: ["সাইরাস দ্য গ্রেট", "জেরক্সেস", "দারিয়ুস তৃতীয়", "আশুরবানিপাল"],
         answer: 0,
-        explanation: "মেসোপটেমিয়া শব্দের অর্থ মূলত ‘দুই নদীর মধ্যবর্তী ভূমি’; টাইগ্রিস ও ইউফ্রেটিস নদীর মধ্যবর্তী অঞ্চলে এ সভ্যতা বিকশিত হয়।",
-        example: "Mesopotamia developed between the Tigris and Euphrates rivers."
+        explanation: "সাইরাস দ্য গ্রেট খ্রিস্টপূর্ব ষষ্ঠ শতকে আকেমেনীয় পারস্য সাম্রাজ্যের ভিত্তি স্থাপন করেন এবং বিস্তৃত অঞ্চল একত্র করেন।",
+        example: "Cyrus the Great established the foundations of the Achaemenid Persian Empire."
     },
 
     {
         id: "WH003",
-        question: "হাম্মুরাবির আইনসংহিতা কোন সভ্যতার সঙ্গে সম্পর্কিত?",
-        options: ["মিশরীয়", "রোমান", "গ্রিক", "ব্যাবিলনীয়"],
+        question: "আকেমেনীয় পারস্য সাম্রাজ্যের Royal Road-এর একটি প্রধান কাজ কী ছিল?",
+        options: ["মন্দির নির্মাণ", "সাম্রাজ্যের সীমানা ছোট করা", "শুধু সৈন্যদের প্রশিক্ষণ", "দূরবর্তী অঞ্চলগুলোর মধ্যে দ্রুত যোগাযোগ ও প্রশাসনিক সমন্বয়"],
         answer: 3,
-        explanation: "হাম্মুরাবির আইনসংহিতা প্রাচীন ব্যাবিলনীয় সভ্যতার সঙ্গে সম্পর্কিত।",
-        example: "The Code of Hammurabi is associated with ancient Babylonian civilization."
+        explanation: "Royal Road সাম্রাজ্যের বিভিন্ন অঞ্চলের মধ্যে বার্তা, সরকারি নির্দেশ ও যাতায়াত দ্রুত করতে সাহায্য করত।",
+        example: "The Royal Road helped messages travel across the Persian Empire."
     },
 
     {
         id: "WH004",
-        question: "গণতন্ত্রের প্রাচীনতম বিকাশের জন্য কোন নগররাষ্ট্র বিখ্যাত?",
-        options: ["রোম", "এথেন্স", "করিন্থ", "স্পার্টা"],
+        question: "খ্রিস্টপূর্ব ৪৯০ সালের ম্যারাথনের যুদ্ধে গ্রিকদের প্রধান প্রতিপক্ষ কারা ছিল?",
+        options: ["রোমান বাহিনী", "পারস্য বাহিনী", "মিশরীয় বাহিনী", "মঙ্গোল বাহিনী"],
         answer: 1,
-        explanation: "প্রাচীন এথেন্সকে গণতন্ত্রের প্রাথমিক ও গুরুত্বপূর্ণ বিকাশের জন্য বিখ্যাত নগররাষ্ট্র হিসেবে ধরা হয়।",
-        example: "Ancient Athens is famous for the early development of democracy."
+        explanation: "ম্যারাথনের যুদ্ধে এথেন্সের নেতৃত্বাধীন গ্রিক বাহিনী পারস্য সাম্রাজ্যের বাহিনীর মুখোমুখি হয়।",
+        example: "The Greeks fought the Persian forces at the Battle of Marathon."
     },
 
     {
@@ -106,20 +106,20 @@ const quizData = [
 
     {
         id: "WH007",
-        question: "ইসলামের প্রথম খলিফা কে ছিলেন?",
-        options: ["হযরত আবু বকর (রা.)", "হযরত উসমান (রা.)", "হযরত আলী (রা.)", "হযরত উমর (রা.)"],
+        question: "প্রাচীন গ্রিক অলিম্পিক ক্রীড়া কোন দেবতার সম্মানে অনুষ্ঠিত হতো?",
+        options: ["জিউস", "অ্যাপোলো", "পোসাইডন", "হার্মিস"],
         answer: 0,
-        explanation: "হযরত আবু বকর (রা.) ছিলেন ইসলামের প্রথম খলিফা।",
-        example: "Abu Bakr was the first caliph of Islam."
+        explanation: "প্রাচীন অলিম্পিক ক্রীড়া অলিম্পিয়ায় দেবতা জিউসের সম্মানে অনুষ্ঠিত হতো।",
+        example: "The ancient Olympic Games were held in honour of Zeus."
     },
 
     {
         id: "WH008",
-        question: "হিজরি সন গণনা শুরু হয় কোন ঘটনা থেকে?",
-        options: ["বদরের যুদ্ধ", "মক্কা বিজয়", "হিজরত", "বিদায় হজ"],
+        question: "রোমান প্রজাতন্ত্রের শেষ পর্যায়ে জুলিয়াস সিজারকে কোন সালে হত্যা করা হয়?",
+        options: ["খ্রিস্টপূর্ব ৪৯", "খ্রিস্টপূর্ব ২৭", "খ্রিস্টপূর্ব ৪৪", "খ্রিস্টাব্দ ১৪"],
         answer: 2,
-        explanation: "হিজরি বর্ষপঞ্জির সূচনা নির্ধারণ করা হয় মহানবী হযরত মুহাম্মদ (সা.)-এর মক্কা থেকে মদিনায় হিজরতকে ভিত্তি করে।",
-        example: "The Hijri calendar begins from the migration, or Hijra, to Medina."
+        explanation: "জুলিয়াস সিজারকে খ্রিস্টপূর্ব ৪৪ সালের ১৫ মার্চ রোমে হত্যা করা হয়; দিনটি Ides of March নামে পরিচিত।",
+        example: "Julius Caesar was assassinated in Rome in 44 BCE."
     },
 
     {
@@ -142,92 +142,92 @@ const quizData = [
 
     {
         id: "WH011",
-        question: "ইউরোপে রেনেসাঁর সূচনা প্রধানত কোন দেশে হয়েছিল?",
-        options: ["ফ্রান্স", "ইংল্যান্ড", "ইতালি", "স্পেন"],
+        question: "স্প্যানিশ আর্মাডা ইংল্যান্ডের বিরুদ্ধে অভিযান চালায় কোন সালে?",
+        options: ["১৫৭১", "১৬০৩", "১৫৮৮", "১৬৪৯"],
         answer: 2,
-        explanation: "ইউরোপীয় রেনেসাঁর সূচনা প্রধানত ইতালিতে হয়েছিল।",
-        example: "The Renaissance began primarily in Italy."
+        explanation: "স্পেনের নৌবহর Spanish Armada ১৫৮৮ সালে ইংল্যান্ড আক্রমণের চেষ্টা করে, কিন্তু অভিযানটি ব্যর্থ হয়।",
+        example: "The Spanish Armada attempted to invade England in 1588."
     },
 
     {
         id: "WH012",
-        question: "মুদ্রণযন্ত্রের উন্নয়নের সঙ্গে কার নাম বিশেষভাবে জড়িত?",
-        options: ["জোহানেস গুটেনবার্গ", "কোপার্নিকাস", "গ্যালিলিও", "নিউটন"],
+        question: "সুয়েজ খাল আনুষ্ঠানিকভাবে নৌচলাচলের জন্য উন্মুক্ত হয় কোন সালে?",
+        options: ["১৮৬৯", "১৮৫৯", "১৮৮৮", "১৯১৪"],
         answer: 0,
-        explanation: "জোহানেস গুটেনবার্গ ইউরোপে মুদ্রণ প্রযুক্তির উন্নয়নের সঙ্গে বিশেষভাবে যুক্ত।",
-        example: "Johannes Gutenberg is closely associated with the development of the printing press."
+        explanation: "ভূমধ্যসাগর ও লোহিত সাগরকে সংযুক্তকারী সুয়েজ খাল ১৮৬৯ সালে আনুষ্ঠানিকভাবে উদ্বোধন করা হয়।",
+        example: "The Suez Canal officially opened to navigation in 1869."
     },
 
     {
         id: "WH013",
-        question: "আমেরিকার স্বাধীনতার ঘোষণা কোন সালে গৃহীত হয়?",
-        options: ["১৮১২", "১৭৯৯", "১৭৮৯", "১৭৭৬"],
+        question: "হাইতি ফরাসি ঔপনিবেশিক শাসন থেকে স্বাধীনতা ঘোষণা করে কোন সালে?",
+        options: ["১৭৮৯", "১৮০১", "১৮০২", "১৮০৪"],
         answer: 3,
-        explanation: "যুক্তরাষ্ট্রের স্বাধীনতার ঘোষণা ৪ জুলাই ১৭৭৬ সালে গৃহীত হয়।",
-        example: "The United States Declaration of Independence was adopted in 1776."
+        explanation: "দীর্ঘ বিপ্লবী সংগ্রামের পর হাইতি ১৮০৪ সালে স্বাধীনতা ঘোষণা করে এবং স্বাধীন রাষ্ট্র হিসেবে আত্মপ্রকাশ করে।",
+        example: "Haiti declared independence from France in 1804."
     },
 
     {
         id: "WH014",
-        question: "ফরাসি বিপ্লব শুরু হয় কোন সালে?",
-        options: ["১৭৭৬", "১৮১৫", "১৭৮৯", "১৮৪৮"],
+        question: "পোর্টসমাউথ চুক্তির মাধ্যমে রুশ-জাপান যুদ্ধের অবসান ঘটে কোন সালে?",
+        options: ["১৯০৪", "১৯০৬", "১৯০৫", "১৯১০"],
         answer: 2,
-        explanation: "ফরাসি বিপ্লব ১৭৮৯ সালে শুরু হয়।",
-        example: "The French Revolution began in 1789."
+        explanation: "রুশ-জাপান যুদ্ধের অবসান ঘটাতে পোর্টসমাউথ চুক্তি ১৯০৫ সালে স্বাক্ষরিত হয়।",
+        example: "The Treaty of Portsmouth ended the Russo-Japanese War in 1905."
     },
 
     {
         id: "WH015",
-        question: "ফরাসি বিপ্লবের বিখ্যাত স্লোগান ছিল—",
-        options: ["Peace, Land and Bread", "Liberty, Equality, Fraternity", "Workers of the World Unite", "Liberty or Death"],
+        question: "আফ্রিকান ঐক্য সংস্থা (Organization of African Unity) প্রতিষ্ঠিত হয় কোন সালে?",
+        options: ["১৯৫৮", "১৯৬৩", "১৯৭৫", "১৯৯১"],
         answer: 1,
-        explanation: "ফরাসি বিপ্লবের বিখ্যাত মূলমন্ত্র ছিল ‘Liberty, Equality, Fraternity’।",
-        example: "Liberty, Equality, Fraternity became the famous slogan of the French Revolution."
+        explanation: "আফ্রিকান ঐক্য সংস্থা ১৯৬৩ সালে প্রতিষ্ঠিত হয়; পরে ২০০২ সালে এর স্থলাভিষিক্ত হয় আফ্রিকান ইউনিয়ন।",
+        example: "The Organization of African Unity was founded in 1963."
     },
 
     {
         id: "WH016",
-        question: "নেপোলিয়ন বোনাপার্ট কোন যুদ্ধে চূড়ান্তভাবে পরাজিত হন?",
-        options: ["ওয়াটারলু", "লাইপজিগ", "মস্কো", "ট্রাফালগার"],
+        question: "১৮৮৪–১৮৮৫ সালের বার্লিন সম্মেলন প্রধানত কোন মহাদেশে ইউরোপীয় উপনিবেশ বিস্তারের সঙ্গে যুক্ত?",
+        options: ["আফ্রিকা", "এশিয়া", "দক্ষিণ আমেরিকা", "ওশেনিয়া"],
         answer: 0,
-        explanation: "১৮১৫ সালের ওয়াটারলুর যুদ্ধে নেপোলিয়ন বোনাপার্ট চূড়ান্তভাবে পরাজিত হন।",
-        example: "Napoleon Bonaparte was finally defeated at the Battle of Waterloo."
+        explanation: "বার্লিন সম্মেলনে ইউরোপীয় শক্তিগুলো আফ্রিকায় নিজেদের দাবি ও উপনিবেশ বিস্তারের নিয়ম নিয়ে আলোচনা করে।",
+        example: "The Berlin Conference dealt with European colonial expansion in Africa."
     },
 
     {
         id: "WH017",
-        question: "শিল্পবিপ্লব প্রথম কোন দেশে শুরু হয়?",
-        options: ["ব্রিটেন", "জার্মানি", "ফ্রান্স", "যুক্তরাষ্ট্র"],
+        question: "ইরানে ইসলামী বিপ্লব সংঘটিত হয় কোন সালে?",
+        options: ["১৯৭৯", "১৯৬৭", "১৯৮৯", "১৯৯১"],
         answer: 0,
-        explanation: "শিল্পবিপ্লব প্রথমে ব্রিটেনে শুরু হয় এবং পরে ইউরোপ ও বিশ্বের অন্যান্য অঞ্চলে ছড়িয়ে পড়ে।",
-        example: "The Industrial Revolution began in Britain."
+        explanation: "১৯৭৯ সালের ইসলামী বিপ্লবের মাধ্যমে ইরানের রাজতন্ত্রের অবসান ঘটে এবং নতুন রাজনৈতিক ব্যবস্থা প্রতিষ্ঠিত হয়।",
+        example: "The Iranian Revolution took place in 1979."
     },
 
     {
         id: "WH018",
-        question: "রাশিয়ার বিখ্যাত ফেব্রুয়ারি ও অক্টোবর বিপ্লব সংঘটিত হয় কোন সালে?",
-        options: ["১৯২৯", "১৯০৫", "১৯২১", "১৯১৭"],
+        question: "পানামা খাল আনুষ্ঠানিকভাবে চালু হয় কোন সালে?",
+        options: ["১৯০৫", "১৯১০", "১৯১৮", "১৯১৪"],
         answer: 3,
-        explanation: "রুশ বিপ্লবের প্রধান বিপ্লবী ঘটনাগুলো ১৯১৭ সালে সংঘটিত হয়।",
-        example: "The Russian Revolution took place in 1917."
+        explanation: "আটলান্টিক ও প্রশান্ত মহাসাগরকে সংযুক্তকারী পানামা খাল ১৯১৪ সালে আনুষ্ঠানিকভাবে চালু হয়।",
+        example: "The Panama Canal officially opened in 1914."
     },
 
     {
         id: "WH019",
-        question: "রুশ বিপ্লবের বলশেভিক দলের নেতা কে ছিলেন?",
-        options: ["কেরেনস্কি", "ট্রটস্কি", "ভ্লাদিমির লেনিন", "স্ট্যালিন"],
+        question: "ভিয়েতনাম যুদ্ধের সময় সাইগনের পতন ঘটে কোন সালে?",
+        options: ["১৯৬৮", "১৯৭৩", "১৯৭৫", "১৯৭৯"],
         answer: 2,
-        explanation: "ভ্লাদিমির লেনিন বলশেভিক দলের প্রধান নেতা ছিলেন এবং ১৯১৭ সালের অক্টোবর বিপ্লবে গুরুত্বপূর্ণ নেতৃত্ব দেন।",
-        example: "Vladimir Lenin was the leader of the Bolsheviks."
+        explanation: "১৯৭৫ সালের ৩০ এপ্রিল সাইগনের পতনের মাধ্যমে ভিয়েতনাম যুদ্ধের চূড়ান্ত পর্যায়ের অবসান ঘটে।",
+        example: "The fall of Saigon occurred in April 1975."
     },
 
     {
         id: "WH020",
-        question: "প্রথম বিশ্বযুদ্ধ শুরু হয় কোন সালে?",
-        options: ["১৯১২", "১৯১৪", "১৯১৩", "১৯১৫"],
+        question: "ইউরোপীয় কয়লা ও ইস্পাত সম্প্রদায় (ECSC) প্রতিষ্ঠার চুক্তি কোন সালে স্বাক্ষরিত হয়?",
+        options: ["১৯৪৫", "১৯৫১", "১৯৫৭", "১৯৬৭"],
         answer: 1,
-        explanation: "প্রথম বিশ্বযুদ্ধ ১৯১৪ সালে শুরু হয়।",
-        example: "World War I began in 1914."
+        explanation: "ইউরোপীয় কয়লা ও ইস্পাত সম্প্রদায় প্রতিষ্ঠার প্যারিস চুক্তি ১৯৫১ সালে স্বাক্ষরিত হয়; এটি পরবর্তী ইউরোপীয় একীকরণের গুরুত্বপূর্ণ ধাপ ছিল।",
+        example: "The Treaty of Paris establishing the ECSC was signed in 1951."
     }
 
 ];
