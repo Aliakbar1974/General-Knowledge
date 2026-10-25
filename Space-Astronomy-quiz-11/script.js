@@ -244,6 +244,25 @@ const correctMessage = document.getElementById("correct-message");
 const wrongMessage = document.getElementById("wrong-message");
 const exampleText = document.getElementById("example-text");
 
+// Display explanation and example as separate, readable sections.
+function showFeedbackContent(q) {
+    if (!exampleText) return;
+    exampleText.replaceChildren();
+    const explanationLabel = document.createElement("strong");
+    explanationLabel.textContent = "ব্যাখ্যা: ";
+    const explanationValue = document.createTextNode(q.explanation || "কোনো ব্যাখ্যা দেওয়া হয়নি।");
+    const exampleLabel = document.createElement("strong");
+    exampleLabel.textContent = "উদাহরণ: ";
+    const exampleValue = document.createTextNode(q.example || "কোনো উদাহরণ দেওয়া হয়নি।");
+    exampleText.appendChild(explanationLabel);
+    exampleText.appendChild(explanationValue);
+    exampleText.appendChild(document.createElement("br"));
+    exampleText.appendChild(document.createElement("br"));
+    exampleText.appendChild(exampleLabel);
+    exampleText.appendChild(exampleValue);
+}
+
+
 const scoreElement = document.getElementById("score");
 const percentageElement = document.getElementById("percentage");
 const resultMessage = document.getElementById("result-message");
@@ -455,11 +474,7 @@ function selectAnswer(selectedIndex, clickedButton) {
                 feedbackElement.style.display = "block";
             }
 
-            if (exampleText) {
-                exampleText.textContent =
-                    "ব্যাখ্যা: " + q.explanation +
-                    "\n\nউদাহরণ: " + q.example;
-            }
+            showFeedbackContent(q);
         }
     } else {
         if (clickedButton) {
@@ -485,11 +500,7 @@ function selectAnswer(selectedIndex, clickedButton) {
             feedbackElement.style.display = "block";
         }
 
-        if (exampleText) {
-            exampleText.textContent =
-                "ব্যাখ্যা: " + q.explanation +
-                "\n\nউদাহরণ: " + q.example;
-        }
+        showFeedbackContent(q);
     }
 
     showNextButton();
@@ -535,11 +546,7 @@ function timeUp() {
         feedbackElement.style.display = "block";
     }
 
-    if (exampleText) {
-        exampleText.textContent =
-            "ব্যাখ্যা: " + q.explanation +
-            "\n\nউদাহরণ: " + q.example;
-    }
+    showFeedbackContent(q);
 
     showNextButton();
 }
